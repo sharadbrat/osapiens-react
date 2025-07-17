@@ -1,0 +1,17 @@
+{
+  "languages": {
+    "en": "English",
+    "de": "Deutsch"
+  },
+  "logout": "Abmelden",
+  "appTitle": "Lieferanten-OS-Anwendung",
+  "editOrganization": "Organisation bearbeiten",
+  "routes": {
+    "/home": "Bug-Bounty-Herausforderung"
+  },
+  "home": {
+    "welcome": "Willkommen!",
+    "intro": "Dies ist eine Demo-Anwendung mit einigen Fehlern und Bugs, bei der wir hoffen, dass Sie sie finden können. 😃 Hier ist die Liste der <b>bekannten</b> Probleme:",
+    "sidenote": "Alle Bugs haben einen unterschiedlichen Schwierigkeitsgrad und sind alle ziemlich häufig (reale Probleme für jeden React-Entwickler). Um alle offenen Punkte zu lösen, sind verschiedene Fähigkeiten erforderlich: Googeln, Erfahrung, Lesen von Dokumentationen und Fehlermeldungen, Kreativität und analytisches Denken."
+  }
+}
